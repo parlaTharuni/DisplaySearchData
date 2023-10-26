@@ -1,0 +1,5 @@
+Tharuni, 7
+Indira,  5
+Teju,    3
+nagya,   6
+john,    2 
